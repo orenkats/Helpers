@@ -1,3 +1,5 @@
+Prompt for Complex Explanations:
+
 1.Explain the flow in a step-by-step manner, focusing on:
  • What happens first, second, and so on.
  • The parameters passed and values returned at each step.
@@ -14,3 +16,16 @@
  • The role of each component in the flow.
  • How files relate to each other in the system.
  • Anything that may be hard to see but critical to the behavior.
+
+Frontend prompts
+
+Write a React component that uses a clean, modular style. 
+Avoid inline conditional rendering or deeply nested JSX. 
+Separate logic from rendering by using helper functions or variables, and keep the JSX flat and declarative. 
+Focus on readability, maintainability, and simplicity. The component should be easy to understand and modify.
+
+Backend prompts
+
+Write a backend service in .NET using a clean, modular, and maintainable architecture. Avoid deeply nested logic, inline conditionals, or mixing concerns within a single file. 
+Use clear separation of concerns by dividing the code into layers.
+Focus on readability, maintainability, and simplicity. The service should be easy to test, extend, and debug.
