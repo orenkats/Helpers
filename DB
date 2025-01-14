@@ -1,0 +1,10 @@
+Service,Recommended DB,Reason
+User Management,PostgreSQL,Structured data, relational queries, and integrity requirements (e.g., unique email, relationships).
+AI/Content Generation,MongoDB,Semi-structured or unstructured data with nested sections.
+Third-Party Data Integration,MongoDB,Varying schemas for fetched data from external APIs.
+File Generation,PostgreSQL,Metadata for files is highly structured and linked to users.
+Notification Service,MongoDB,Flexible schema for different notification types (e.g., email, push).
+Payment Service,PostgreSQL,Transactional data requiring consistency and relationships.
+Report Customization,MongoDB,User-specific and flexible customization options.
+Analytics Service,MongoDB,Event-driven, time-series data with high write throughput.
+Template Management,PostgreSQL,Structured templates reusable across users, requiring categorization and versioning.
